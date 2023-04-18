@@ -1,0 +1,12 @@
+.button-increment {
+    background: green !important;
+    color: #fff;
+    margin-right: 10px;
+}
+.button-decrement {
+    background: red !important;
+    color: #fff;
+}
+.counter {
+    font-size: 30px;
+}
